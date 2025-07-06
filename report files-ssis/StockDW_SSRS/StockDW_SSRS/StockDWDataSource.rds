@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="StockDWDataSource">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=HewlettPackard;Initial Catalog=StockDW</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>abd24498-9ed2-4f51-9f0c-8304a3f9c461</DataSourceID>
+</RptDataSource>

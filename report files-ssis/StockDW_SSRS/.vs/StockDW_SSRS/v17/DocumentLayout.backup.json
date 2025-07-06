@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\MainReport_CompanyList.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|solutionrelative:StockDW_SSRS\\MainReport_CompanyList.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\ParameterizedReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|solutionrelative:StockDW_SSRS\\ParameterizedReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\SubReport_StockDetails.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|solutionrelative:StockDW_SSRS\\SubReport_StockDetails.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\TabularReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|solutionrelative:StockDW_SSRS\\TabularReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\MatrixReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|solutionrelative:StockDW_SSRS\\MatrixReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\DrillDownReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{312095F4-C88B-467B-5511-428D1A2317DD}|StockDW_SSRS\\StockDW_SSRS.rptproj|solutionrelative:StockDW_SSRS\\DrillDownReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainReport_CompanyList.rdl [Design]",
+              "DocumentMoniker": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\MainReport_CompanyList.rdl",
+              "RelativeDocumentMoniker": "StockDW_SSRS\\MainReport_CompanyList.rdl",
+              "ToolTip": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\MainReport_CompanyList.rdl [Design]",
+              "RelativeToolTip": "StockDW_SSRS\\MainReport_CompanyList.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T15:22:21.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParameterizedReport.rdl [Design]",
+              "DocumentMoniker": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\ParameterizedReport.rdl",
+              "RelativeDocumentMoniker": "StockDW_SSRS\\ParameterizedReport.rdl",
+              "ToolTip": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\ParameterizedReport.rdl [Design]",
+              "RelativeToolTip": "StockDW_SSRS\\ParameterizedReport.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T14:49:35.584Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubReport_StockDetails.rdl [Design]",
+              "DocumentMoniker": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\SubReport_StockDetails.rdl",
+              "RelativeDocumentMoniker": "StockDW_SSRS\\SubReport_StockDetails.rdl",
+              "ToolTip": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\SubReport_StockDetails.rdl [Design]",
+              "RelativeToolTip": "StockDW_SSRS\\SubReport_StockDetails.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T21:49:58.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrillDownReport.rdl [Design]",
+              "DocumentMoniker": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\DrillDownReport.rdl",
+              "RelativeDocumentMoniker": "StockDW_SSRS\\DrillDownReport.rdl",
+              "ToolTip": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\DrillDownReport.rdl [Design]",
+              "RelativeToolTip": "StockDW_SSRS\\DrillDownReport.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T00:38:05.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TabularReport.rdl [Design]",
+              "DocumentMoniker": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\TabularReport.rdl",
+              "RelativeDocumentMoniker": "StockDW_SSRS\\TabularReport.rdl",
+              "ToolTip": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\TabularReport.rdl [Design]",
+              "RelativeToolTip": "StockDW_SSRS\\TabularReport.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T23:45:09.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixReport.rdl [Design]",
+              "DocumentMoniker": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\MatrixReport.rdl",
+              "RelativeDocumentMoniker": "StockDW_SSRS\\MatrixReport.rdl",
+              "ToolTip": "D:\\sql data solution\\ca2 70%\\CA2 70%\\StockDW_SSRS\\StockDW_SSRS\\MatrixReport.rdl [Design]",
+              "RelativeToolTip": "StockDW_SSRS\\MatrixReport.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T23:42:23.735Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

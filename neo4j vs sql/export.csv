@@ -1,0 +1,6 @@
+﻿c
+"(:Company {CompanyName: Meta,CompanyID: 2,Sector: Technology,Symbol: META,Country: USA})"
+"(:Company {CompanyName: Tesla,CompanyID: 3,Sector: Automotive/Technology,Symbol: TSLA,Country: USA})"
+"(:Company {CompanyName: Microsoft,Sector: Technology,Country: USA})"
+"(:Company {CompanyName: Meta,Sector: Technology,Country: USA})"
+"(:Company {CompanyName: Tesla,Sector: Automotive/Technology,Country: USA})"
