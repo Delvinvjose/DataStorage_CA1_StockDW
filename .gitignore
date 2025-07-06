@@ -1,0 +1,43 @@
+# ================================
+# .gitignore for Data Storage CA1
+# ================================
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code / Visual Studio files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Log files
+*.log
+
+# Backup or temp files
+*.bak
+*.tmp
+
+# SSRS local data and temporary files
+*.rdl.data
+
+# SSIS/SSRS debug files
+bin/
+obj/
+
+# Tableau temporary backups
+*.twb~
+*.hyper
+*.tde
+
+# draw.io backups
+*.drawio~*
+
+# Ignore large output files (optional)
+# *.csv
